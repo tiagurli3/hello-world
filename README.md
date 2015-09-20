@@ -1,2 +1,4 @@
 # hello-world
-Using the training tutorial to get reacquainted with GitHub basics
+=============
+
+This is the start of me jumping deep into the world of tech and gaining the experience I want and need.
